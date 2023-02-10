@@ -1,0 +1,15 @@
+E:\exmples\lek 1 2\bin\Debug\net7.0\lek 1 2.exe
+E:\exmples\lek 1 2\bin\Debug\net7.0\lek 1 2.deps.json
+E:\exmples\lek 1 2\bin\Debug\net7.0\lek 1 2.runtimeconfig.json
+E:\exmples\lek 1 2\bin\Debug\net7.0\lek 1 2.dll
+E:\exmples\lek 1 2\bin\Debug\net7.0\lek 1 2.pdb
+E:\exmples\lek 1 2\obj\Debug\net7.0\lek 1 2.csproj.AssemblyReference.cache
+E:\exmples\lek 1 2\obj\Debug\net7.0\lek 1 2.GeneratedMSBuildEditorConfig.editorconfig
+E:\exmples\lek 1 2\obj\Debug\net7.0\lek 1 2.AssemblyInfoInputs.cache
+E:\exmples\lek 1 2\obj\Debug\net7.0\lek 1 2.AssemblyInfo.cs
+E:\exmples\lek 1 2\obj\Debug\net7.0\lek 1 2.csproj.CoreCompileInputs.cache
+E:\exmples\lek 1 2\obj\Debug\net7.0\lek 1 2.dll
+E:\exmples\lek 1 2\obj\Debug\net7.0\refint\lek 1 2.dll
+E:\exmples\lek 1 2\obj\Debug\net7.0\lek 1 2.pdb
+E:\exmples\lek 1 2\obj\Debug\net7.0\lek 1 2.genruntimeconfig.cache
+E:\exmples\lek 1 2\obj\Debug\net7.0\ref\lek 1 2.dll
